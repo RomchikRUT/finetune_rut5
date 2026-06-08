@@ -1,0 +1,20 @@
+{
+  "labels": [
+    "talk_start",
+    "talk_end",
+    "talk_inside",
+    "non_talk"
+  ],
+  "label2id": {
+    "talk_start": 0,
+    "talk_end": 1,
+    "talk_inside": 2,
+    "non_talk": 3
+  },
+  "id2label": {
+    "0": "talk_start",
+    "1": "talk_end",
+    "2": "talk_inside",
+    "3": "non_talk"
+  }
+}
